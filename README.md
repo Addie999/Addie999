@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Addie999
-- 👀 I’m interested in ... game dev 
-- 🌱 I’m currently learning ... unity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Addie999/Addie999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi my name is aditya im looking forward to conneting with the people who are actively working on something and need helps building i can help you and we both can build somethinh meaning ful 
